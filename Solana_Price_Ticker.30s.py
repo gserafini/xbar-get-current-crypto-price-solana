@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # coding=utf-8
 
-# <xbar.title>Crypto Price Ticker</xbar.title>
+# <xbar.title>Solana Price Ticker</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>Gabriel Serafini</xbar.author>
 # <xbar.author.github>gserafini</xbar.author.github>
